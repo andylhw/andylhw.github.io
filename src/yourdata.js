@@ -13,7 +13,7 @@ export default
         //Contact Email
         contactEmail:'hwleec0313@naver.com',
         // Add Your About Text Here
-        abouttext: "Test About",
+        abouttext: "About창을 테스트하고 있습니다. 추후에 추가해드리곘습니다.",
         aboutImage:'https://images.unsplash.com/photo-1521587765099-8835e7201186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)

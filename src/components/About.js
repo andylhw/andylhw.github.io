@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 import data from '../yourdata';
-import profile from '../Asset/Images/TestImage.png'
+import profile from '../Asset/Images/TestImage2.png'
 
 class About extends Component {
     state = {  }
