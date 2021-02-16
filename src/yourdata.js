@@ -13,7 +13,7 @@ export default
         //Contact Email
         contactEmail:'hwleec0313@naver.com',
         // Add Your About Text Here
-        abouttext: "Test About",
+        abouttext: "이화원의 개인페이지 입니다. 테스트 중으로써 약간의 변동이 있으면 교체하겠습니다.",
         aboutImage:'https://images.unsplash.com/photo-1521587765099-8835e7201186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
